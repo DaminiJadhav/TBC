@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#FFFF</color>-->
+<!--    <color name="colorPrimaryDark">#FF5722</color>-->
+<!--    <color name="colorAccent">#E64A19</color>-->
+
+<!--    <color name="colorPrimary">#FFFF</color>-->
+<!--    <color name="colorPrimaryDark">#513488</color>-->
+<!--    <color name="colorAccent">	#5f4491</color>-->
+
+    <color name="colorPrimary">#2d2d2d</color>
+    <color name="colorPrimaryDark">#f2f2f2</color>
+    <color name="colorAccent">#BF2D2D2D</color>
+
+    <color name="surface">#effafe</color>
+
+    <color name="dashboard">#f0f3f8</color>
+
+    <color name="colorGray">#F3F3F3</color>
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorLightGray">#777879</color>
+    <color name="colorDarkGray">#434343</color>
+    <color name="colorPressed">#ffb195</color>
+    <color name="colorLightBlack">#4A4A4A</color>
+
+    <color name="running">#71A606</color>
+    <color name="delivered">#FFB300</color>
+    <color name="paid">#EFF2F3</color>
+    <color name="unpaid">#F3DCC0</color>
+
+    <color name="link_color">#3949AB</color>
+    <color name="circle">#930022EF</color>
+
+    <color name="black">#040404</color>
+
+    <color name="view">#79040404</color>
+
+    <color name="new_color">#515</color>
+    <color name="new_color_1">#872187</color>
+    <color name="purple_400">#AB47BC</color>
+
+    <color name="purple_600">#8E24AA</color>
+
+
+    <color name="new_grey">#D6D6D6</color>
+</resources>

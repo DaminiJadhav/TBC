@@ -1,0 +1,174 @@
+<resources>
+    <string name="app_name">My TruckBhejo</string>
+
+    <string name="somethingWrong">Something went wrong, Please try again later..</string>
+    <string name="dismiss">Dismiss</string>
+
+    <!-- Login Activity -->
+    <string name="welcome_to">Welcome To</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="txt_login">Login</string>
+    <string name="valid_mobile_number">Enter Valid Mobile Number..</string>
+
+
+    <!-- No Internet Dialog-->
+    <string name="msg_no_internet_connection">You don\'t have an internet connection</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="says">Says..</string>
+
+    <!-- Back Button Press -->
+    <string name="back_button_press">Press Back again to Exit.</string>
+
+    <!-- OTP Activity -->
+    <string name="enter_otp">Enter OTP Code</string>
+    <string name="auto_fetch_otp">Auto fetching OTP</string>
+    <string name="need_help">Need Help |</string>
+    <string name="need_help_call_us">Call us</string>
+    <string name="didnot_receiver">Didn\'t get the OTP ?</string>
+    <string name="resend">Resend OTP</string>
+    <string name="validate_otp">Enter Valid OTP..</string>
+    <string name="otp_send">OTP send on your Registered Mobile number..</string>
+    <string name="sen_to">send to</string>
+
+    <!-- Drawer -->
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_notification">Notification</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_notification_status">Notification On/Off</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Menu Logout -->
+    <string name="msg_logout">Are you sure you want to logout?</string>
+    <string name="btn_Yes">Yes</string>
+    <string name="btn_No">No</string>
+    <string name="btn_Ok">OK</string>
+    <string name="logout_message">Logout Successfully..</string>
+
+    <!-- Fragment Dashboard -->
+    <string name="fragment_dashboard">DashBoard</string>
+    <string name="trips_count">Trips</string>
+    <string name="all_trips">All</string>
+    <string name="running_trips">Running</string>
+    <string name="delivered_trips">Delivered</string>
+    <string name="search_trip">Search Trips</string>
+
+    <string name="trips_running">Running</string>
+    <string name="trips_Pending">Pending</string>
+    <string name="trips_delivered_with_pod">Delivered with POD</string>
+    <string name="trips_delivered_without_pod">Delivered without POD</string>
+    <string name="trips_accepted">Accepted</string>
+    <string name="trips_canceled">Cancelled</string>
+    <string name="trips_delivered">Delivered</string>
+
+    <string name="please_enter_search_string">Please Enter Data then click on search..</string>
+
+    <string name="no_more_orders">No more Order Available..</string>
+
+
+    <string name="logo_title">Re-imagine Logistics\n with TruckBhejo</string>
+    <string name="logo_sub_title">-One Click Total Control\n-Live GPS Vehicle Tracking\n-24x7 Operational Support</string>
+    <string name="logo_button_text">Place Your booking</string>
+    <string name="dash_last_trip">Your Last Trip</string>
+    <string name="dash_show_all">Show all trips</string>
+
+    <!-- Dialog Notice-->
+    <string name="notice">Notice</string>
+    <string name="notice_already_login">Account already login another Device.We need to logout from here.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Fragment Setting -->
+    <string name="fragment_setting">Setting</string>
+
+    <!-- Fragment Place Order -->
+    <string name="place_order">Place Order</string>
+    <string name="from_location">Enter Pick Up Location</string>
+    <string name="drop_point">To Pick Drop Point Tap on + Icon \n You can add upto 3 Location</string>
+    <string name="product_weight">Weight of Product</string>
+    <string name="type_of_product">Type of Product</string>
+    <string name="procudt_quantity">Quantity of Product</string>
+    <string name="weight_in_tone">*Weight in Tone</string>
+    <string name="second_drop">Pick Second Drop Location</string>
+    <string name="third_drop">Pick Third Drop Location</string>
+    <string name="pickdate_time"><![CDATA[Enter Date & Time]]></string>
+    <string name="err_network_failure_title">No Internet Connection!</string>
+    <string name="font_roboto_regular">fonts/roboto_regular.ttf</string>
+    <string name="font_roboto_black">fonts/roboto_black.ttf</string>
+    <string name="gps_setting">GPS Settings</string>
+    <string name="gps_enable">GPS is not enabled. Do you want to go to settings menu?</string>
+    <string name="settings">Settings</string>
+
+
+    <!-- Track Order Fragment -->
+    <string name="track_order">Track Order</string>
+    <string name="last_location">Last Location:</string>
+
+    <!-- Order Details Fragment -->
+    <string name="order_details">Order Details</string>
+    <string name="assign_order_details">Vehicle Details</string>
+    <string name="order_documents_details">Order Documents</string>
+    <string name="eway_bill">E-Way Bill</string>
+    <string name="loading_receipt">Loading Receipt</string>
+    <string name="lr_number">LR Number</string>
+    <string name="colon">:</string>
+    <string name="order_doc">Order Documents</string>
+    <string name="submit_pod">Submit POD</string>
+    <string name="vehicle_number">Vehicle Number</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="driver_name">Driver Name</string>
+    <string name="pod_details">POD Details</string>
+    <string name="pod_front">POD Front</string>
+    <string name="pod_back">POD Back</string>
+
+    <string name="no_order_details">Order Documents not found..</string>
+    <string name="no_pod_details">POD Documents not found..</string>
+
+    <string name="delivery_date">Date Of Delivery :</string>
+    <string name="feedback">Feedback :</string>
+
+
+    <!--WebView Activity -->
+    <string name="view">Document Viewer</string>
+
+    <!-- Fragment Notification -->
+    <string name="notification">Notification</string>
+    <string name="no_notification">Notifications not available</string>
+    <string name="no_mor_notifications">No More Notifications available</string>
+
+
+    <!-- Customer Registration -->
+    <string name="customer_name">Customer Name</string>
+    <string name="customer_number">Customer Number</string>
+    <string name="customer_email">Customer Email Id</string>
+    <string name="customer_address">Customer Address</string>
+    <string name="submit">Submit</string>
+
+    <string name="error_company">Please enter company Name</string>
+    <string name="error_customer_name">Please enter Customer name</string>
+    <string name="error_customer_number">Please enter Customer Mobile number</string>
+    <string name="error_validate">Please enter valid Mobile number..</string>
+    <string name="error_validate_email">Please enter valid Email Id</string>
+    <string name="error_customer_email">Please enter Customer Email Id</string>
+    <string name="error_customer_address">Please enter Customer Address</string>
+    <string name="error_all">All Fields are compulsory..</string>
+
+    <!-- Trips Fragments -->
+    <string name="trips_fragment">Trips</string>
+    <string name="search">Search by Order ID,Location,Vehicle Number</string>
+
+    <!-- POP up Menu -->
+    <string name="pop_up_menu_call">Call to Driver</string>
+    <string name="pop_up_menu_track">Track Location</string>
+
+
+    <!-- Login Faild -->
+    <string name="login_faild">Your Number is not Registered</string>
+    <string name="number_not_registered">Do you wish to register?</string>
+    <string name="registered_success">Registration Successful!</string>
+    <string name="registration_success_msg">Thank you for registering with Truckbhejo. Your registration details are received by Truckbhejo team.Our operation team will contact you soon.</string>
+    <string name="number_not_active">Your registration is under Review</string>>
+    <string name="number_not_active_msg">Truckbhejo team will contact you post activation of account. \n In case of any query, call on <b>9021329329</b> or mail us at <b>support@truckbhejo.com</b></string>
+</resources>

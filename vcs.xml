@@ -1,0 +1,47 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:garkar1996/tbm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="garkar.g96@gmail.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.azure.com" />
+          <option name="userName" value="truckbhejo" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://sdaemonapps.visualstudio.com/Team_Up/_git/Team_Up" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://sdaemonapps.visualstudio.com" />
+          <option name="userName" value="info" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://truckbhejo@dev.azure.com/truckbhejo/Truckbhejo/_git/Android_TBM" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://truckbhejo@dev.azure.com/truckbhejo/Truckbhejo_customer/_git/Truckbhejo_customer" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Android Projects" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
+  </component>
+</application>

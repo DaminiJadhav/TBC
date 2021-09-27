@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "45717064404",
+    "firebase_url": "https://truckbhejo-3ff88.firebaseio.com",
+    "project_id": "truckbhejo-3ff88",
+    "storage_bucket": "truckbhejo-3ff88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45717064404:android:05308e45d30d64d105c941",
+        "android_client_info": {
+          "package_name": "com.truckbhejob2b.manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45717064404-tqudftg2kr1cqr8ae0hf406hbqukoq7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbxyk_imVUe8DbhgjxdNPKVEIX6GHZ1TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45717064404-tqudftg2kr1cqr8ae0hf406hbqukoq7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45717064404:android:e09db4caeef5599705c941",
+        "android_client_info": {
+          "package_name": "com.truckbhejob2b.truckbhejocustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45717064404-tqudftg2kr1cqr8ae0hf406hbqukoq7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbxyk_imVUe8DbhgjxdNPKVEIX6GHZ1TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45717064404-tqudftg2kr1cqr8ae0hf406hbqukoq7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45717064404:android:6601cfdf300427be05c941",
+        "android_client_info": {
+          "package_name": "com.truckbhejob2b.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45717064404-tqudftg2kr1cqr8ae0hf406hbqukoq7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbxyk_imVUe8DbhgjxdNPKVEIX6GHZ1TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45717064404-tqudftg2kr1cqr8ae0hf406hbqukoq7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <dimen name="card_Elevation">5dp</dimen>
+    <dimen name="card_contentPadding">5dp</dimen>
+    <dimen name="card_CornerRadius">3dp</dimen>
+</resources>
